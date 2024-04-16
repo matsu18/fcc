@@ -2,13 +2,13 @@
 
 ### Data Analysis with Python Projects
 
-** Mean-Variance-Standard Deviation Calculator **
+* **Mean-Variance-Standard Deviation Calculator**
 
-* Demographic Data Analyzer *
+* **Demographic Data Analyzer**
 
-* Medical Data Visualizer *
+* **Medical Data Visualizer**
 
-* Page View Time Series Visualizer *
+* **Page View Time Series Visualizer**
 
-* Sea Level Predictor *
+* **Sea Level Predictor**
 
